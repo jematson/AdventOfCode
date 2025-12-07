@@ -1,3 +1,8 @@
+// day5.cpp
+// Jenae Matson
+// 2025-12-04
+// Solution for Advent of Code 2025 Day 5
+
 #include <iostream>
 #include <fstream>
 #include <string>

@@ -1,3 +1,8 @@
+// day3.cpp
+// Jenae Matson
+// 2025-12-03
+// Solution for Advent of Code 2025 Day 3
+
 #include <iostream>
 #include <fstream>
 #include <string>
